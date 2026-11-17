@@ -155,4 +155,4 @@ See [`STEPS.md`](./STEPS.md) for the full step-by-step guide to how this model w
 ## Author
 
 **Ashish Shinde**
-Add your GitHub / LinkedIn links here.
+github: [https:/github](https://github.com/AshishAnilShinde/powerbi-data-modeling-rls/edit/main/README.md)
